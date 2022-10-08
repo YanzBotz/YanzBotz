@@ -39,4 +39,4 @@
 ![https://github-readme-stats.vercel.app/api?username=YanzBotz&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=YanzBotz&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
 ## тМия╕П Is My Project
-* WhatsApp Bot Normal [`YanzBotz/YanzBotz `](https://github.com/YanzBotz/YanzBotz)
+* WhatsApp Bot Multi-Device [`YanzBotz/Yanz-Botz. `](https://github.com/YanzBotz/Yanz-Botz.)
