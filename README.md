@@ -10,7 +10,7 @@
 <a href="https://wa.me/68785883359262?text=Hallo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
-:page_with_curl: I'm currently learning:
+:page_with_curl: I'm currently learning :
 - Golang • Python • Javascript
 -  Nodejs • Java
 - Laravel • Express JS
@@ -21,7 +21,7 @@
   <img alig src="./code.gif" />
 </p>
 
-### ðŸ“« Feel free to contact me anytime
+### 📫 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40YanzBotzX-blue">](https://t.me/YanzBotzX)
 [<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-orange">](mailto:yanzbotz88@gmail.com)
 <a href="https://www.instagram.com/riyan_ff12" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
