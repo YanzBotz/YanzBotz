@@ -3,7 +3,7 @@
 </p>
 
  
-## Hello, Im [YanzBotz](https://instagram.com/riyan_ff12) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello, I`m [YanzBotz](https://instagram.com/riyan_ff12) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [<img src="https://img.shields.io/badge/Website-YanzBotz-blue">](http://api.yanzbotz.repl.co)
 [<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-purple">](mailto:yanzbotz88@gmail.com)
 <a href="https://www.instagram.com/riyan_ff12" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
